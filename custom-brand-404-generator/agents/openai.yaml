@@ -1,0 +1,4 @@
+interface:
+  display_name: "Custom Brand 404 Generator"
+  short_description: "Design and implement brand-native, useful 404 pages"
+  default_prompt: "Use $custom-brand-404-generator to analyze this website and implement a brand-native 404 page in the current project."
